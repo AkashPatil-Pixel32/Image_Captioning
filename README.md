@@ -36,10 +36,15 @@ Once you get the high-level idea, depending on your dataset, you might want to m
 
 Once you get something working for your dataset, feel free to edit any part of the code to suit your own needs.
 
+## References:
+
+- [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
+- [Where to put the Image in an Image Caption Generator](https://arxiv.org/abs/1703.09137)
+- [What is the Role of Recurrent Neural Networks (RNNs) in an Image Caption Generator?](https://arxiv.org/abs/1708.02043)
+- [Automated Image Captioning with ConvNets and Recurrent Nets](https://cs.stanford.edu/people/karpathy/sfmltalk.pdf)
+- [Photo Caption Generator](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)
+
 ## Resources
 
 - [PyTorch documentation](http://pytorch.org/docs/0.3.0/)
-- [Tutorials](http://pytorch.org/tutorials/)
-- [PyTorch warm-up](https://github.com/jcjohnson/pytorch-examples)
-
-[SIGNS]: https://drive.google.com/file/d/1ufiR6hUKhXoAyiBNsySPkUwlvE_wfEHC/view?usp=sharing
