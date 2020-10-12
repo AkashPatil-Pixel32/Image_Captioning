@@ -11,11 +11,9 @@ pip install -r requirements.txt
 ```
 ## Task
 
-Given an image of a hand doing a sign representing 0, 1, 2, 3, 4 or 5, predict the correct label.
+- Automated image captioning using CNN and RNN
 
-## Guidelines for more advanced use
-
-We recommend reading through `train.py` to get a high-level overview of the training loop steps:
+## Guidelines to train and evaluate model and predict captions for input image.
 - loading the hyperparameters for the experiment (the `params.json`)
 - loading the training and validation data
 - creating the model, loss_fn and metrics
