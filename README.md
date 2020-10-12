@@ -42,4 +42,4 @@ Once you get something working for your dataset, feel free to edit any part of t
 
 ## Resources
 
-- [PyTorch documentation](http://pytorch.org/docs/0.3.0/)
+- [PyTorch documentation](https://pytorch.org/docs/stable/)
