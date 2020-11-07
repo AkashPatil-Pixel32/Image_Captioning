@@ -18,13 +18,10 @@ pip install -r requirements.txt
 - creating the model, loss_fn and metrics
 - training the model for a given number of epochs by calling `train_and_evaluate(...)`
 
-`data_loader.py` to
-- load jpg images and transforms to torch Tensors
-- `data_iterator`: creates a batch of data and labels and pads sentences
-
-- `model/net.py` : Neetwork, loss function and metrics
-- `model/data_loader.py` : data loader
+- `data_loader.py` : Load jpg images and transforms to torch Tensors (creates a batch of data and labels and pads sentences)
+- `net.py` : Network, loss function and metrics
 - `train.py` : Train module 
+- `evaluate.py` : Evaluate the trained model
 
 ## References:
 
