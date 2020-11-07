@@ -13,11 +13,7 @@ pip install -r requirements.txt
 
 - Automated image captioning using CNN and RNN
 
-## Guidelines to train and evaluate model and predict captions for input image.
-- loading the training and validation data
-- creating the model, loss_fn and metrics
-- training the model for a given number of epochs by calling `train_and_evaluate(...)`
-
+## Guidelines to train and evaluate model.
 - `data_loader.py` : Load jpg images and transforms to torch Tensors (creates a batch of data and labels and pads sentences)
 - `net.py` : Network, loss function and metrics
 - `train.py` : Train module 
